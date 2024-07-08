@@ -1,5 +1,5 @@
 cython==0.29.36
-gym==0.21.0
+# gym==0.21.0
 matplotlib==3.5.2
 mujoco_py==2.0.2.5
 numpy==1.18.5
